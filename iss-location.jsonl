@@ -2,3 +2,4 @@
 {"message": "success", "timestamp": 1748082990, "iss_position": {"longitude": "-150.1584", "latitude": "-8.1684"}}
 {"message": "success", "timestamp": 1748083011, "iss_position": {"longitude": "-149.3837", "latitude": "-9.2260"}}
 {"timestamp": 1748088912, "message": "success", "iss_position": {"latitude": "-25.3438", "longitude": "-159.7351"}}
+{"iss_position": {"longitude": "17.6570", "latitude": "28.5190"}, "message": "success", "timestamp": 1748175342}
